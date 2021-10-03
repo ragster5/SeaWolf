@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Boat
+  - Rock
+  - Victory
+  - Wind
+  - Sail
+  - Leme
+  - Sea
+  - Forbbiden
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Elements
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BG
+    uniqueID: 1912815505
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Scenario
+    uniqueID: 1241215809
+    locked: 0
+  - name: ObjectsBG
+    uniqueID: 3243761119
+    locked: 0
+  - name: Organic
+    uniqueID: 1155194825
+    locked: 0
+  - name: InteractObjects
+    uniqueID: 545601277
+    locked: 0
+  - name: HUD
+    uniqueID: 1159519621
+    locked: 0
